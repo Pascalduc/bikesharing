@@ -50,10 +50,14 @@ The purpose of this project was to analyze New York City bike sharing data to le
 
 ## Summary:
 •	Based on our analysis, we found that men, especially those between the age of 24 and 40, represent the target population for bike sharing. Therefore, if we want to find out if bike sharing would be sustainable in Des Moines, we need to compare the population of both cities. When looking at the population by age, both cities have similar percentage of 20 to 39 years old. Both cities also have similar ratio of male to female. The major difference is in the population size where New York city has 8.4 million while Des Moines only has about 0.22 million and probably less tourists as well. The business model may be viable on a smaller scale, but we would need more data on average commuting distance and more details on traffic jam in Des Moines to see if bike sharing would be an attractive and sustainable alternative. A comparison of average monthly temperature and precipitation might be useful as well to compare the number of cyclable days with New York city. 
-A detailed Tableau Public Story can be found here: https://public.tableau.com/app/profile/pascal.duchesneau/viz/BikeSharing2_16221564080020/BikeSharing
+
 
 ## New York City Demographics
 ![NYC_pop](Resources/NYC_pop.png)
 
+
 ## Des Moines City Demographics
 ![Des_Moines_pop](Resources/Des_Moines_pop.png)
+
+
+A detailed Tableau Public Story can be found here: https://public.tableau.com/app/profile/pascal.duchesneau/viz/BikeSharing2_16221564080020/BikeSharing
