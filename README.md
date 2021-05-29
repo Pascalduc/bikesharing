@@ -5,7 +5,7 @@ Module 14
 The purpose of this project was to analyze New York City bike sharing to learn more about the business model and apply it to Des Moines.
 
 ## Results:
-•	For this analysis, we used `Tableau` to visualize multiple data from NYC Citi Bike. First, we generated a map of hotspot circles where we can see that central areas are the most popular.
+•	For this analysis, we used `Tableau Public` to visualize multiple data from NYC Citi Bike. First, we generated a map of hotspot circles where we can see that central areas are the most popular.
 
 ![NYC_Starting_Locations](Resources/NYC_Starting_Locations.png)
 
