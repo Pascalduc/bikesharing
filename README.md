@@ -5,7 +5,7 @@ Module 14
 The purpose of this project was to analyze New York City bike sharing data to learn more about the business model and apply it to Des Moines Iowa.
 
 ## Results:
-•	For this analysis, we used `Tableau Public` to visualize multiple data sets from NYC Citi Bike sharing. First, we wanted to visualize on the map which bike station were the most popular, so we displayed longitudes and latitudes from bike stations on the map and used circle markers where the size is proportional to the trip count. We can see that central areas of Manhattan are the most popular, possibly due to high number of tourist and convenience for commuters.
+•	For this analysis, we used `Tableau Public` to visualize multiple data sets from NYC Citi Bike sharing. First, we wanted to visualize on the map which bike station were the most popular, so we displayed longitudes and latitudes from bike stations on the map and used circle markers where the size is proportional to the trip count. We can see that central areas of Manhattan are the most popular, possibly due to high number of tourists and convenience for commuters.
 
 ![NYC_Starting_Locations](Resources/NYC_Starting_Locations.png)
 
