@@ -10,6 +10,7 @@ The purpose of this project was to analyze New York City bike sharing data to le
 ![NYC_Starting_Locations](Resources/NYC_Starting_Locations.png)
 
 
+
 •	Next, we were interested in gender usage, so we generated a pie chart for users by gender. We found that men represented roughly 65.3% of riders while women represented 25.1% and 9.6% were unknown.
 
 
