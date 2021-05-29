@@ -23,7 +23,7 @@ The purpose of this project was to analyze New York City bike sharing data to le
 ![Count_by_age](Resources/Count_by_age.png)
 
 
-•	Next, we looked at trip duration for customers versus subscribers and found that customers, possibly tourists, will ride longer but account for less than one fifth of the rides. Customers, possibly toursts, ride between 8 and 26 minutes while subscribers, possibly commutters, ride around 2 to 12 minutes. 
+•	Next, we looked at trip duration for customers versus subscribers and found that customers, possibly tourists, will ride longer but account for less than one fifth of the rides. Customers, possibly toursts, ride between 8 and 26 minutes while subscribers, possibly commuters, ride around 2 to 12 minutes. 
 
 
 ![Trip_duration_by_type](Resources/Trip_duration_by_type.png)
